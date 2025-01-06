@@ -1,4 +1,4 @@
-path: D:\YOLOV10-MAIN\datasets\Raruco #D:\YOLOV8\Raruco_detect
+path: D:\YOLOV10-MAIN\datasets\Raruco 
 
 # 训练集、验证集、测试集相对于 path 的路径
 train: images/train
